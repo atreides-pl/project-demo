@@ -1,5 +1,1 @@
-# Nawigacja
-
-- link 1
-- link 2
-- link 3
+# Demonstracja zarządzania projektem na GitHub
